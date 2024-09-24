@@ -1,5 +1,19 @@
 # 💫 About Me:
+
+👋 Hello, I'm Tesnim Solli!
 🌱 I’m currently learning  Computer Information Systems/Software Development<br>
+I'm a passionate computer science enthusiast with a focus on leadership, technology, and community engagement. As the Chairwoman of the IEEE ISET Bizerte Computer Society Chapter, I lead initiatives that bridge the gap between academic knowledge and real-world application, fostering collaboration among students, professionals, and tech enthusiasts.
+
+💡 What I Do:
+
+Advocate for STEM and tech education through organizing events, webinars, and workshops.
+Explore various areas of software development, data science, and machine learning.
+Collaborate on projects that aim to solve real-world challenges through innovation and technology.
+🔧 Skills & Interests:
+Open-source contributions
+Leadership and community building through IEEE
+🌐 Let's Connect: Feel free to explore my repositories and reach out for collaboration or discussions on tech, leadership, or any exciting project ideas!
+
 
 
 ## 🌐 Socials:
